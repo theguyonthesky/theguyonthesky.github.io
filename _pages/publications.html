@@ -10,7 +10,9 @@ author_profile: true
 {% endif %} -->
 
 
-<div class="wordwrap">Soon..</div>
+{% if site.publications == empty %}
+  <div class="wordwrap">Soon..</div>
+{% endif %}
 
 {% include base_path %}
 
