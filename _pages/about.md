@@ -15,6 +15,6 @@ After completing my Master's, I had the opportunity to work as an instructor, te
 
 I have strong hands-on experience in the defensive side of cybersecurity, with particular expertise in email security, network security, SIEM, endpoint security (EDR), threat detection, and incident response. I am actively engaged with various defensive tools and technologies in this space.
 
-For a broader view of my experience and the tools I specialize in, you can access my resume [here](/files/Elmaddin_Azizli_Resume.pdf), and for a closer look at my work, feel free to explore my [GitHub repository](https://github.com/theguyonthesky), where I’ve shared several security-related projects. Please note that you may also come across non-security-related projects—these reflect my broader interests and what I enjoy working on in my free time.
+For a broader view of my experience and the tools I specialize in, you can access my [resume](/files/Elmaddin_Azizli_Resume.pdf), and for a closer look at my work, feel free to explore my [GitHub](https://github.com/theguyonthesky), where I’ve shared several security-related projects. Please note that you may also come across non-security-related projects which reflect my broader interests and what I enjoy working on in my free time.
 
 Speaking of my free time, when I don't dive into projects, I mainly spend my time reading books about psychology and philosophy. I also enjoy playing chess and working out.
