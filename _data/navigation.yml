@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   #- title: "CV"
-  #  url: /files/Elmaddin_Azizli_Resume.pdf
+  #  url: /files/Elmaddin_Azizli_Resume.pdf #add under files
     
   # - title: "CV"
   #   url: /cv-json/
