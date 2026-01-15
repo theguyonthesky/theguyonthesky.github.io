@@ -21,7 +21,7 @@ main:
   #  url: /portfolio/
          
   - title: "Blog Posts"
-    url: /Posts/
+    url: /posts/
     
   #- title: "CV"
   #  url: /files/Elmaddin_Azizli_Resume.pdf #add under files
