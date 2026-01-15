@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Colorado State University (CSU), advised by Professor [Indrakshi Ray](https://www.cs.colostate.edu/~iray/), specializing in cybersecurity. As a member of [Ray's Cyber Lab](https://rayscyberlab.org/), I am currently in the phase of exploring various aspects of security to shape my long-term research direction. My primary research interests involve system security, network security, threat detection, and incident response. Recently, I have worked on projects related to firmware security and Android inter-process communication (IPC) security, particularly using the Next Generation Access Control (NGAC) model.
+I am a Ph.D. student in Computer Science at Colorado State University (CSU), advised by Professor [Viktoria Koscinski](https://viktoriakoscinski.github.io/), specializing in cybersecurity. As a member of [Secure Software Systems Lab (S³ Lab)](https://viktoriakoscinski.github.io/lab.html), I am currently in the phase of exploring various aspects of security to shape my long-term research direction. My primary research interests involve system security, network security, threat detection, and incident response and vulnerability management. Recently, I have worked on projects related to firmware security and Android inter-process communication (IPC) security, particularly using the Next Generation Access Control (NGAC) model.
 
 Prior to beginning my Ph.D. program, I earned a Bachelor of Science in Information Technology from the University of Central Florida (UCF). I then completed my Master of Science in Cybersecurity at UCF, where I had the opportunity to explore the more practical aspects of security through hands-on projects and coursework.
 
