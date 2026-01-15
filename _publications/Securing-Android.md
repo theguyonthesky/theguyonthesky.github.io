@@ -3,7 +3,7 @@ title: "Securing Android Inter-Process Communication (IPC) Using NGAC"
 collection: publications
 category: conferences
 permalink: /publication/Securing-Android
-excerpt: 'This paper paper applies the Next-Generation Access Control (NGAC) model to strengthen the security of Android’s inter-process communication (IPC) mechanisms against unauthorized interactions between apps and services.'
+excerpt: 'This paper applies the Next-Generation Access Control (NGAC) model to strengthen the security of Android’s inter-process communication (IPC) mechanisms against unauthorized interactions between apps and services.'
 date: 2025-08-26
 venue: '22nd Annual International Conference on Privacy, Security, and Trust (PST)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
