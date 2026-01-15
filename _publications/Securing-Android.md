@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/Securing-Android
 excerpt: 'This paper paper applies the Next-Generation Access Control (NGAC) model to strengthen the security of Android’s inter-process communication (IPC) mechanisms against unauthorized interactions between apps and services.'
 date: 2025-08-26
-venue: 'Proceedings of the IEEE International Conference on Privacy, Security and Trust (PST)'
+venue: '22nd Annual International Conference on Privacy, Security, and Trust (PST), 2025'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1109/PST65910.2025.11268876'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
