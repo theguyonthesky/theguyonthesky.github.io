@@ -7,7 +7,7 @@ excerpt: 'This paper proposes CoDICE, a platform-agnostic framework that standar
 date: 2025-11-27
 venue: '7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.researchgate.net/publication/398029886_CoDICE_Roll_the_DICE_for_Firmware_Attestation'
 bibtexurl: '/files/codice.bib'
 citation: 'R. Podder, J. Simental, E. Azizli, B. Mantha, and I. Ray, "CoDICE: Roll the DICE for Firmware Attestation," in <i>Proc. 2025 7th IEEE Int. Conf. Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)</i>, 2025, pp. 1-10.'
 ---
