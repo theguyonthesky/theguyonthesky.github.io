@@ -1,7 +1,7 @@
 ---
 title: "CoDICE: Roll the DICE for Firmware Attestation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/CoDICE
 excerpt: 'This paper proposes CoDICE, a platform-agnostic framework that standardizes vendor-specific firmware manifests into a layered DICE architecture to ensure secure, verifiable firmware integrity in resource-constrained environments.'
 date: 2025-11-27
